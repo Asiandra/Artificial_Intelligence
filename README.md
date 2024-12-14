@@ -1,2 +1,2 @@
 # Artificial_Intelligence
-AI Class
+For my programming class
